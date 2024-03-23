@@ -1,0 +1,2 @@
+[env]
+ALLOWED_ORIGINS = "http://foo.bar,http:localhost:2800"
